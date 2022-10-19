@@ -2,7 +2,7 @@
 - 👀 I’m interested in homeassistant 
 - 🌱 I’m currently learning php. Loveparade. Yaml
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me. In Düsseldorf. Germany 
+- 📫 How to reach me. In Dusseldorf. Germany 
 
 <!---
 cle-bra/cle-bra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
